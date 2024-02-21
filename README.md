@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Somya</h1>
-<h3 align="center">CS student from India</h3>
 
+
+<p align="left"> 
+<b>
+  <li>👨‍🎓 Student</li>
+  <li>💻 Developer</li>
+  <li>🤍 gaming | photography | reading</li>
+  <li></li>
+</b>
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=som-04&label=Profile%20views&color=0e75b6&style=flat" alt="som-04" /> </p>
 
 <h3 align="left">Connect with me:</h3>
