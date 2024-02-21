@@ -6,7 +6,6 @@
   <li>👨‍🎓 Student</li>
   <li>💻 Developer</li>
   <li>🤍 gaming | photography | reading</li>
-  <li></li>
 </b>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=som-04&label=Profile%20views&color=0e75b6&style=flat" alt="som-04" /> </p>
